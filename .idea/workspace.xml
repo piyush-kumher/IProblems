@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c37a4c8-4e5d-4d49-b9b3-64d6a8687330" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/DP/leetcode/MinNoOfSquareSumsToANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/DP/leetcode/RemoveMinInValidPranthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/array/leetcode/FirstMissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/array/leetcode/LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/array/leetcode/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/design/logging/apis/Appender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/design/logging/apis/ILoggingFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/design/logging/apis/Level.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/AlienDictionaryMostVotedSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/Bipartite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/CouplesholdingHands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/CourseSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/CourseSchedule2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/EvaluateDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/FriendCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/GraphValidTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/ItineraryArrangement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/MinimumHeightGraphTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/MostStonesRemoved.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/RegionsCutBySlashes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/SurroundedRegion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/entities/AdjacencyListGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/entities/AdjacencyMatrixGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/entities/DirectedEdge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/entities/WeightedDirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/standardAlgo/AdjancencyMatrixRepresentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/standardAlgo/BellmanFordSSSE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/standardAlgo/CycleDetectionDirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/standardAlgo/DijkstraSSSEAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/standardAlgo/ShortestPathForDAG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/standardAlgo/UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/traversal/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/sahu/tree/leetcode/SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/piyush/sahu/tree/bst/TopView.java" beforeDir="false" />
     </list>
     <ignored path="IProblems.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -128,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/RegionsCutBySlashes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="988">
@@ -139,6 +106,15 @@
                 <element signature="e#2482#2483#0" expanded="true" />
                 <element signature="e#2518#2519#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -165,15 +141,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/piyush/sahu/array/leetcode/FirstMissingNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -195,7 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/KosarajuAlgo.java" />
         <option value="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/CycleDetectionDirectedGraph.java" />
         <option value="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/entities/DirectedGraph.java" />
         <option value="$PROJECT_DIR$/src/com/piyush/sahu/lectures/graph/entities/DirectedEdge.java" />
@@ -246,6 +212,7 @@
         <option value="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/SurroundedRegion.java" />
         <option value="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/MostStonesRemoved.java" />
         <option value="$PROJECT_DIR$/src/com/piyush/sahu/graph/leetcode/RegionsCutBySlashes.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -275,13 +242,6 @@
               <item name="IProblems" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sahu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sahu" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IProblems" type="b2602c69:ProjectViewProjectNode" />
@@ -411,7 +371,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555838867344" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555840024888" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -776,12 +736,12 @@
       <workItem from="1554361690491" duration="7069000" />
       <workItem from="1554749994590" duration="8923000" />
       <workItem from="1555183974602" duration="455000" />
-      <workItem from="1555309291421" duration="8952000" />
+      <workItem from="1555309291421" duration="9140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100366000" />
+    <option name="totallyTimeSpent" value="100554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -797,12 +757,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329602" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.38909543" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38909543" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="SBT Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3283767" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3283767" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32961586" />
@@ -1141,7 +1101,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DirectedEdge.java" />
     <entry file="file://$PROJECT_DIR$/src/DijkstraSP.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1582,6 +1541,13 @@
             <element signature="e#2482#2483#0" expanded="true" />
             <element signature="e#2518#2519#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
