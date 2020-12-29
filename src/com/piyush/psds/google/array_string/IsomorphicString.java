@@ -38,8 +38,8 @@ public class IsomorphicString {
             return false;
         }
         boolean[] charInSec = new boolean[256];
-        int[] array = new int[256];
-        for (int i = 0; i< 256; i++){
+        int[] array = new int[size];
+        for (int i = 0; i< size; i++){
             array[i] = -1;
         }
         for(int i=0; i<len1; i++){

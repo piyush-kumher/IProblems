@@ -1,14 +1,20 @@
 package com.piyush.psds;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class Test {
 
+
+    //TODO: DO these
+    // https://leetcode.com/discuss/interview-question/590101/facebook-interview-question-slow-sum
+
     public static void main(String[] args) {
-        int[][] array = {{1,2,3}, {4,5,0}};
-        String s = Arrays.deepToString(array);
-        System.out.println(s);
-        char c = 'c';
+        Set<List<Integer>> set = new HashSet<>();
+        set.add(Arrays.asList(1,2,3));
+        set.add(Arrays.asList(1,2,3));
+        System.out.println(set.size());
+        int i = Integer.MIN_VALUE;
+        System.out.println(-i);
     }
 
 

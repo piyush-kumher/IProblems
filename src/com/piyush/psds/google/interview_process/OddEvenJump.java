@@ -5,6 +5,44 @@ import java.util.TreeMap;
 //https://leetcode.com/problems/odd-even-jump/submissions/
 public class OddEvenJump {
 
+    public static void main(String[] args) {
+        OddEvenJump o = new OddEvenJump();
+        int[] arr = {2,3,1,1,4};
+        System.out.println(o.oddEvenJumps_1(arr));
+    }
+
+
+    public int oddEvenJumps_1(int[] A) {
+        int length = A.length;
+        if(length == 0) {
+            return 0;
+        }
+        TreeMap<Integer, Integer> map = new TreeMap<>();
+        // jump to higher ele which is an odd move : could also be considered for start point
+        boolean[] higher = new boolean[length];
+        // jump to lower ele
+        boolean[] lower = new boolean[length];
+        higher[length-1] = true;
+        lower[length-1] = true;
+        map.put(A[length-1], length-1);
+        for(int i=length-2; i>=0; i--) {
+            Integer lowerEle = map.floorKey(A[i]);
+            Integer higherEle = map.ceilingKey(A[i]);
+            if(higherEle != null) {
+                higher[i] = lower[map.get(higherEle)];
+            }
+            if(lowerEle != null) {
+                lower[i] = higher[map.get(lowerEle)];
+            }
+            map.put(A[i], i);
+        }
+        int sum = 0;
+        for(int i=0; i < length; i++) {
+            sum += (higher[i]) ? 1 : 0;
+        }
+        return sum;
+    }
+
     public int oddEvenJumps(int[] A) {
         int length = A.length;
         if(length == 0) {

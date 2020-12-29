@@ -2,18 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c37a4c8-4e5d-4d49-b9b3-64d6a8687330" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/dp/BestTimeToBuyAndSellAStock2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/dp/BestTimeToBuyAndSellStock3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/dp/BestTimeToBuySellAStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/dp/MaxProductSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/dp/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/recursion/AndroidUnlockPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/recursion/GenerateParanthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/recursion/LetterCombinationOfAPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/recursion/WordSearch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph/BinaryTreeMaxPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/aug_6_2020_streak/random/PairOfSongsSumOfDurationDivisibleBy60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/GroupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/IntegerToEnglishWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/LongestStringWithAtMostKCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/MaximumWindowSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/MoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/MultiplyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/OneEditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/PancakeSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/ProductOfArrayButSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/ReadNCharactersGivenRead4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/ReverseWordsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/RomaToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/StringToIntegerATOI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/SubarraySumEqualsK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/ValidPalindrome2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/ValidateIpAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/design/AddAndSearchWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/design/SerializeAndDeserializeABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/dp/BestTimeToBuyAndSellAStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/dp/ContinuousSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/dp/DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/dp/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/dp/LongestValidParathesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/dp/RangeSumQueryDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/dp/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/linkedlist/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/linkedlist/CopyListWithRandomPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/linkedlist/ListReorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/linkedlist/MergeTwoSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/others/ExpressionAddOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/others/FindAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/others/IntervalListIntersections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/others/PermutationInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/others/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/others/VerifyingAlienDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/LetterCombinationOfAPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/Permutations2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/RegularExpressionMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/RemoveInvalidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/Strobogrammatic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/DivideTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/FindACelebrity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/FindFirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/FindPeekElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/IntersectionOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/IntersectionOfTwoArrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/PowXN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/VersionControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/AccountMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/AlienDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/BinaryTreeOrderLevelTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/BinaryTreeRightSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/BipirateGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/ConvertBinarySearchTreeToDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/FlattenBinaryTreeToLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/LowestCommonAncestorBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/ShortestDistanceFromAllBuildings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/ValidateBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/VerticalOrderTraversalOfATree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/design/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/dp/CountCompleteTreeNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/dp/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/dp/LongestIncreasingPathInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/others/Candies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/others/IsomorphicString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/others/JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/others/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph/DiameterOfABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph/FlipEquivalentBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph/MostStonesRemovedFromSameRowAndColumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph/RobotRoomClear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph/ScheduleCourse2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/piyush/psds/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/piyush/psds/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/piyush/psds/aug_6_2020_streak/graph/union_find/NumberOfIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/piyush/psds/aug_6_2020_streak/graph/union_find/NumberOfIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/piyush/psds/google/array_string/IsomorphicString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/array_string/IsomorphicString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/piyush/psds/google/interview_process/LicenceKeyFormatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/interview_process/LicenceKeyFormatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/piyush/psds/google/interview_process/OddEvenJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/piyush/psds/google/interview_process/OddEvenJump.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +142,7 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -67,7 +150,12 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.SplitLargestArraySum">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LicenceKeyFormatting">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -227,13 +315,13 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CCArcadeLayoutGenerationScheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.piyush.coding.uber.scheduler.CCArcadeLayoutGenerationScheduler" />
+    <configuration name="Candies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.piyush.psds.google.others.Candies" />
       <module name="IProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.piyush.coding.uber.scheduler.*" />
+          <option name="PATTERN" value="com.piyush.psds.google.others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,13 +329,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FruitsIntoBaskets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.piyush.psds.google.interview_process.FruitsIntoBaskets" />
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.piyush.psds.google.design.LRUCache" />
       <module name="IProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.piyush.psds.google.array_string.*" />
+          <option name="PATTERN" value="com.piyush.psds.google.design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,13 +343,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLongestSubstringNonRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.piyush.psds.google.array_string.LengthOfLongestSubstringNonRepeating" />
+    <configuration name="LicenceKeyFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.piyush.psds.google.interview_process.LicenceKeyFormatting" />
       <module name="IProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.piyush.psds.google.array_string.*" />
+          <option name="PATTERN" value="com.piyush.psds.google.interview_process.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,13 +357,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitLargestArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.piyush.psds.google.dp.SplitLargestArraySum" />
+    <configuration name="OddEvenJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.piyush.psds.google.interview_process.OddEvenJump" />
       <module name="IProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.piyush.psds.google.dp.*" />
+          <option name="PATTERN" value="com.piyush.psds.google.interview_process.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,13 +371,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.piyush.coding.uber.scheduler.Test" />
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.piyush.psds.google.others.ReverseInteger" />
       <module name="IProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.piyush.coding.uber.scheduler.*" />
+          <option name="PATTERN" value="com.piyush.psds.google.others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,19 +460,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.CCArcadeLayoutGenerationScheduler" />
-      <item itemvalue="Application.FruitsIntoBaskets" />
-      <item itemvalue="Application.LengthOfLongestSubstringNonRepeating" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.SplitLargestArraySum" />
+      <item itemvalue="Application.LRUCache" />
+      <item itemvalue="Application.ReverseInteger" />
+      <item itemvalue="Application.Candies" />
+      <item itemvalue="Application.OddEvenJump" />
+      <item itemvalue="Application.LicenceKeyFormatting" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SplitLargestArraySum" />
-        <item itemvalue="Application.LengthOfLongestSubstringNonRepeating" />
-        <item itemvalue="Application.FruitsIntoBaskets" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.CCArcadeLayoutGenerationScheduler" />
+        <item itemvalue="Application.LicenceKeyFormatting" />
+        <item itemvalue="Application.OddEvenJump" />
+        <item itemvalue="Application.Candies" />
+        <item itemvalue="Application.ReverseInteger" />
+        <item itemvalue="Application.LRUCache" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +571,12 @@
       <workItem from="1606396466767" duration="9000" />
       <workItem from="1606588287792" duration="3079000" />
       <workItem from="1606762095257" duration="174000" />
-      <workItem from="1606843735247" duration="2243000" />
+      <workItem from="1606843735247" duration="8311000" />
+      <workItem from="1607498316343" duration="11760000" />
+      <workItem from="1607774223191" duration="9071000" />
+      <workItem from="1608012157264" duration="29683000" />
+      <workItem from="1608453133006" duration="8524000" />
+      <workItem from="1609154441255" duration="2784000" />
     </task>
     <servers />
   </component>
@@ -499,74 +592,66 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="542" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598699722011">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="542" y="318" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1598699722011" />
     <state x="606" y="180" key="#com.intellij.ide.util.MemberChooser" timestamp="1603359733137">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="606" y="180" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1603359733137" />
-    <state x="543" y="169" key="#xdebugger.evaluate" timestamp="1606852593377">
+    <state x="550" y="291" key="#xdebugger.evaluate" timestamp="1609259640110">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="543" y="169" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1606852593377" />
-    <state width="537" height="583" key="DebuggerActiveHint" timestamp="1603262380232">
+    <state x="550" y="291" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1609259640110" />
+    <state width="537" height="583" key="DebuggerActiveHint" timestamp="1609259789782">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="537" height="583" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1603262380232" />
-    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1600606676273">
+    <state width="537" height="583" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1609259789782" />
+    <state width="1628" height="291" key="GridCell.Tab.0.bottom" timestamp="1609263774055">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600606676273" />
-    <state width="1628" height="291" key="GridCell.Tab.0.bottom" timestamp="1606852493990">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1628" height="291" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1606852493990" />
+    <state width="1628" height="291" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1609263774055" />
     <state width="1628" height="357" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.0.1680.1050" timestamp="1600781673772" />
-    <state width="1628" height="357" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1600606299399" />
-    <state width="1628" height="291" key="GridCell.Tab.0.center" timestamp="1606852493988">
+    <state width="1628" height="291" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1608274936780" />
+    <state width="1628" height="291" key="GridCell.Tab.0.center" timestamp="1609263774053">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="291" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1606852493988" />
+    <state width="1628" height="291" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1609263774053" />
     <state width="1628" height="357" key="GridCell.Tab.0.center/0.23.1680.1027@0.0.1680.1050" timestamp="1600781673769" />
-    <state width="1628" height="357" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1600606299396" />
-    <state width="1628" height="291" key="GridCell.Tab.0.left" timestamp="1606852493987">
+    <state width="1628" height="291" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1608274936775" />
+    <state width="1628" height="291" key="GridCell.Tab.0.left" timestamp="1609263774052">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="291" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1606852493987" />
+    <state width="1628" height="291" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1609263774052" />
     <state width="1628" height="357" key="GridCell.Tab.0.left/0.23.1680.1027@0.0.1680.1050" timestamp="1600781673763" />
-    <state width="1628" height="357" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1600606299390" />
-    <state width="1628" height="291" key="GridCell.Tab.0.right" timestamp="1606852493989">
+    <state width="1628" height="291" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1608274936770" />
+    <state width="1628" height="291" key="GridCell.Tab.0.right" timestamp="1609263774054">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="291" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1606852493989" />
+    <state width="1628" height="291" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1609263774054" />
     <state width="1628" height="357" key="GridCell.Tab.0.right/0.23.1680.1027@0.0.1680.1050" timestamp="1600781673771" />
-    <state width="1628" height="357" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1600606299398" />
-    <state width="1628" height="291" key="GridCell.Tab.1.bottom" timestamp="1606852475403">
+    <state width="1628" height="291" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1608274936779" />
+    <state width="1628" height="291" key="GridCell.Tab.1.bottom" timestamp="1609263774467">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="291" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1606852475403" />
+    <state width="1628" height="291" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1609263774467" />
     <state width="1628" height="357" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.0.1680.1050" timestamp="1600781673782" />
-    <state width="1628" height="451" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1603024262892" />
-    <state width="1628" height="291" key="GridCell.Tab.1.center" timestamp="1606852475401">
+    <state width="1628" height="291" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1607963246762" />
+    <state width="1628" height="291" key="GridCell.Tab.1.center" timestamp="1609263774456">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="291" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1606852475401" />
+    <state width="1628" height="291" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1609263774456" />
     <state width="1628" height="357" key="GridCell.Tab.1.center/0.23.1680.1027@0.0.1680.1050" timestamp="1600781673779" />
-    <state width="1628" height="451" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1603024262882" />
-    <state width="1628" height="291" key="GridCell.Tab.1.left" timestamp="1606852475400">
+    <state width="1628" height="291" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1607963246760" />
+    <state width="1628" height="291" key="GridCell.Tab.1.left" timestamp="1609263774454">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="291" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1606852475400" />
+    <state width="1628" height="291" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1609263774454" />
     <state width="1628" height="357" key="GridCell.Tab.1.left/0.23.1680.1027@0.0.1680.1050" timestamp="1600781673776" />
-    <state width="1628" height="451" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1603024262876" />
-    <state width="1628" height="291" key="GridCell.Tab.1.right" timestamp="1606852475402">
+    <state width="1628" height="291" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1607963246759" />
+    <state width="1628" height="291" key="GridCell.Tab.1.right" timestamp="1609263774458">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="291" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1606852475402" />
+    <state width="1628" height="291" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1609263774458" />
     <state width="1628" height="357" key="GridCell.Tab.1.right/0.23.1680.1027@0.0.1680.1050" timestamp="1600781673780" />
-    <state width="1628" height="451" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1603024262890" />
+    <state width="1628" height="291" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1607963246761" />
     <state x="200" y="4" key="SettingsEditor" timestamp="1602966545878">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -583,14 +668,14 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="622" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1603309902447" />
-    <state x="816" y="319" width="740" height="574" key="find.popup" timestamp="1603361419907">
+    <state x="816" y="319" width="740" height="574" key="find.popup" timestamp="1608400427699">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="816" y="319" width="740" height="574" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1603361419907" />
-    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1606759971982">
+    <state x="816" y="319" width="740" height="574" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1608400427699" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1609263714556">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1606759971982" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1609263714556" />
     <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1600756273171" />
   </component>
   <component name="XDebuggerManager">
@@ -1054,7 +1139,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/piyush/psds/Test.java</url>
-          <line>13</line>
+          <line>19</line>
           <option name="timeStamp" value="220" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1231,6 +1316,206 @@
           <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/dp/SplitLargestArraySum.java</url>
           <line>26</line>
           <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/dp/CountCompleteTreeNodes.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/dp/CountCompleteTreeNodes.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/dp/LongestIncreasingPathInMatrix.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/dp/LongestIncreasingPathInMatrix.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/Test.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph/MostStonesRemovedFromSameRowAndColumn.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/trees_and_graph/MostStonesRemovedFromSameRowAndColumn.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/MultiplyStrings.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/array_and_string/ValidPalindrome.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/linkedlist/ListReorder.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/linkedlist/ListReorder.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/linkedlist/ListReorder.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/linkedlist/ListReorder.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/dp/LongestPalindromicSubstring.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/CloneGraph.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/CloneGraph.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/ShortestDistanceFromAllBuildings.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/ShortestDistanceFromAllBuildings.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/trees_and_graph/ShortestDistanceFromAllBuildings.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/RemoveInvalidParenthesis.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/RemoveInvalidParenthesis.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/Subsets.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/Subsets.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/Strobogrammatic2.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/recursion/Strobogrammatic2.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/DivideTwoIntegers.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/VersionControl.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/searching_and_sorting/PowXN.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/facebook/design/SerializeAndDeserializeABinaryTree.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/design/MinStack.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/design/MinStack.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/design/MinStack.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/design/MinStack.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/design/LRUCache.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/design/LRUCache.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/others/ReverseInteger.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/others/Candies.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/interview_process/OddEvenJump.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/interview_process/OddEvenJump.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/psds/google/interview_process/LicenceKeyFormatting.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="313" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
