@@ -1,4 +1,4 @@
-package com.piyush.psds.google.dp;
+package com.piyush.psds.google.trees_and_graph;
 
 // https://leetcode.com/problems/count-complete-tree-nodes/
 public class CountCompleteTreeNodes {
@@ -65,24 +65,5 @@ public class CountCompleteTreeNodes {
         return d;
     }
 
-}
-
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode() {
-    }
-
-    TreeNode(int val) {
-        this.val = val;
-    }
-
-    TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
 }
 

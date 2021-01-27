@@ -17,7 +17,10 @@ public class MostStonesRemovedFromSameRowAndColumn {
     // 2. UnionFind (complexity: n * log n)
     // lets understand the problem: This problem is not about moving in certain direction.
     // It's about removing a stone from anywhere if it shares either the row or column with another stone.
-    // Lets define a group of stones which are connected through rows and together, if we start removing stones from a group. at the end there would remain a stone which can not be removed because we have removed others and it does not share any row and column with other stones. Hence each group would a single non visited stone. we can say the answer would be len(stones) - no_of_groups
+    // Lets define a group of stones which are connected through rows and columns,
+    // if we start removing stones from a group. at the end there would remain a stone which can not be removed
+    // because we have removed others and it does not share any row and column with other stones.
+    // Hence each group would a single non visited stone. we can say the answer would be len(stones) - no_of_groups
 
 
     // 1. Approach: DFS : 58%

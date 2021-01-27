@@ -33,4 +33,44 @@ public class RemoveInvalidParenthesis {
         return sb.toString();
     }
 
+    public String minRemoveToMakeValid_1(String s) {
+        StringBuilder sb = new StringBuilder();
+        Set<Integer> indexesToRemove = new HashSet<>();
+        int left = 0;
+        int right = 0;
+        for(int i=0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if(c == '(') {
+                left++;
+            } else if(c == ')') {
+                if(left == right) {
+                    indexesToRemove.add(i);
+                } else {
+                    right++;
+                }
+            }
+        }
+        left = 0;
+        right = 0;
+        for(int i=s.length()-1; i >= 0; i--) {
+            char c = s.charAt(i);
+            if(c == ')' && !indexesToRemove.contains(i)) {
+                right++;
+            } else if(c == '(') {
+                if(left == right) {
+                    indexesToRemove.add(i);
+                } else {
+                    left++;
+                }
+            }
+        }
+        for(int i=0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if(!indexesToRemove.contains(i)) {
+                sb.append(c);
+            }
+        }
+        return sb.toString();
+    }
+
 }

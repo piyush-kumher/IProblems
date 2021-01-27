@@ -1,4 +1,4 @@
-package com.piyush.psds.google.dp;
+package com.piyush.psds.google.trees_and_graph;
 
 // https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/
 
@@ -30,7 +30,8 @@ public class LongestIncreasingPathInMatrix {
         return max;
     }
 
-    // the reason why we do not worry about previous visited because if I am exploring from x -> y, then there is no wayI can reach x from longest increasing path starting y. because x < y
+    // the reason why we do not worry about previous visited because if I am exploring from x -> y,
+    // then there is no way, I can reach x from longest increasing path starting y. because x < y
     public int dfs_cache(int[][] matrix, int[][] mem, int i, int j) {
         if(mem[i][j] != 0) {
             return mem[i][j];
